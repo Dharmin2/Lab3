@@ -1,5 +1,5 @@
 import java.util.*;
-public class Lab3Question4Final
+public class Lab3Question4
 {
   public static void main(String[] args) {
     
@@ -55,5 +55,4 @@ public class Lab3Question4Final
         break;
     }
   }
-}
 }
